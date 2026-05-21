@@ -1,0 +1,8 @@
+interface:
+  display_name: "Promover Framework"
+  short_description: "Promove frameworks para skills uteis."
+  default_prompt: "Use $promover-framework-para-skill to decide whether a framework should become a skill."
+
+policy:
+  allow_implicit_invocation: true
+

@@ -1,0 +1,1 @@
+Criar um workflow no qual vai fazer um vasculhamento na net sobre noticias de hoje e me passar só oq realmente importa para que eu estaja atualizado logo de manhã

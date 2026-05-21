@@ -1,0 +1,8 @@
+interface:
+  display_name: "Processar Mentoria"
+  short_description: "Processa transcricoes de mentoria."
+  default_prompt: "Use $processar-transcricao-diagnostico-mentoria to turn a mentoring transcript into next-session artifacts."
+
+policy:
+  allow_implicit_invocation: true
+

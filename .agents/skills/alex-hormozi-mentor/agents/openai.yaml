@@ -1,0 +1,8 @@
+interface:
+  display_name: "Alex Hormozi"
+  short_description: "Usa o mentor draft do Alex Hormozi."
+  default_prompt: "Use $alex-hormozi-mentor to review an offer, leads strategy, or monetization idea."
+
+policy:
+  allow_implicit_invocation: true
+

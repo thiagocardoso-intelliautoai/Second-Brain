@@ -1,0 +1,8 @@
+interface:
+  display_name: "Criar Mentor"
+  short_description: "Cria mentores com fontes e limites."
+  default_prompt: "Use $criar-mentor to create an operational mentor using the Second Brain process."
+
+policy:
+  allow_implicit_invocation: true
+

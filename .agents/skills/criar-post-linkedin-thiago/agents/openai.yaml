@@ -1,0 +1,7 @@
+interface:
+  display_name: "Criar Post LinkedIn"
+  short_description: "Cria posts LinkedIn na voz do Thiago."
+  default_prompt: "Use $criar-post-linkedin-thiago to capture ideas, promote ideas into LinkedIn posts, review drafts, or create visual briefs for Thiago."
+
+policy:
+  allow_implicit_invocation: true

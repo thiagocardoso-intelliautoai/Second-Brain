@@ -1,0 +1,7 @@
+interface:
+  display_name: "Sintetizar YouTube"
+  short_description: "Extrai pontos relevantes de transcricoes."
+  default_prompt: "Use $sintetizar-youtube-contextual to transform a YouTube transcript into a high-density synthesis tailored to Thiago."
+
+policy:
+  allow_implicit_invocation: true
