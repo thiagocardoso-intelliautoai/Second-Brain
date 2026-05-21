@@ -11,6 +11,7 @@ Mapa dos arquivos ligados a Winning Sales.
 ## Projetos e entregas
 
 - [[04-Work-Winning-Sales/Projects/Squad-Playbook-de-Vendas/PROJECT|Squad Playbook de Vendas]] - prioridade ativa, Project OS
+- [[04-Work-Winning-Sales/Projects/Treinamento-Corporativo-IA-Marketing-e-Vendas/PROJECT|Treinamento Corporativo IA Marketing e Vendas]] - fase inicial de escopo, Project OS
 - [[04-Work-Winning-Sales/Projects/Central-de-IA-Winning-Sales|Central de IA - Winning Sales]] - entregue / referencia
 - [[04-Work-Winning-Sales/Projects/Social-Selling-Automation-Samuel|Social Selling Automation - Samuel]] - parked / backlog
 

@@ -151,6 +151,7 @@ Status: valido como contexto inicial para os proximos 30-90 dias, mas deve ser r
 ## Projetos conectados
 
 - [[04-Work-Winning-Sales/Projects/Squad-Playbook-de-Vendas/PROJECT|Squad Playbook de Vendas]]
+- [[04-Work-Winning-Sales/Projects/Treinamento-Corporativo-IA-Marketing-e-Vendas/PROJECT|Treinamento Corporativo IA Marketing e Vendas]]
 - [[04-Work-Winning-Sales/Projects/Social-Selling-Automation-Samuel|Social Selling Automation - Samuel]]
 - [[04-Work-Winning-Sales/Projects/Central-de-IA-Winning-Sales|Central de IA - Winning Sales]]
 - [[05-Clients-and-Mentoring/Mentoria-IA/Marcelo/README|Marcelo - Mentoria de IA]]

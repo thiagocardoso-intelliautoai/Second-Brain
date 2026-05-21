@@ -9,6 +9,7 @@ Use esta pasta para projetos da Winning Sales que precisam de estado operacional
 | Projeto | Status | Observacao |
 |---|---|---|
 | [[04-Work-Winning-Sales/Projects/Squad-Playbook-de-Vendas/PROJECT|Squad Playbook de Vendas]] | active | Project OS ativo com runtime em `07-Runtime-Squad/` |
+| [[04-Work-Winning-Sales/Projects/Treinamento-Corporativo-IA-Marketing-e-Vendas/PROJECT|Treinamento Corporativo IA Marketing e Vendas]] | active | fase inicial de escopo; fonte principal em Google Sheets |
 
 ## Parked / Backlog
 
