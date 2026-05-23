@@ -70,6 +70,8 @@ Versao derivada da planilha, ainda pendente de confirmacao:
 - [[04-Work-Winning-Sales/Projects/Treinamento-Corporativo-IA-Marketing-e-Vendas/01-Inputs/Escopo-em-Producao-Google-Sheets|01 - Escopo em Producao - Google Sheets]]
 - [[04-Work-Winning-Sales/Projects/Treinamento-Corporativo-IA-Marketing-e-Vendas/02-Process/Arquitetura-do-Treinamento|02 - Arquitetura do Treinamento]]
 - [[04-Work-Winning-Sales/Projects/Treinamento-Corporativo-IA-Marketing-e-Vendas/06-Logs/2026-05-21-Criacao-do-Project-OS|06 - Log de criacao]]
+- [[04-Work-Winning-Sales/Projects/Treinamento-Corporativo-IA-Marketing-e-Vendas/Skills-para-Treinamento-de-AI-mkt-vendas/README|Hub de Skills do Treinamento]]
+- [[04-Work-Winning-Sales/Projects/Treinamento-Corporativo-IA-Marketing-e-Vendas/Aprimoria do Treinamento|Aprimoria do Treinamento]]
 
 ## Decisoes abertas
 
