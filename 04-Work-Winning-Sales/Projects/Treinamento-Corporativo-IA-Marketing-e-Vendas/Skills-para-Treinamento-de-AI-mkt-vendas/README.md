@@ -32,14 +32,14 @@ Cada Skill cadastrada tem subpasta propria com `README.md` proprio, contendo: de
 
 ## Onde aparece cada Skill no material do treinamento
 
-Apresentacao para alunos (nome friendly + valor): [[../Aprimoria do Treinamento|Aprimoria do Treinamento]]
+Apresentacao para alunos (nome friendly + valor): [[../01-Inputs/Aprimoria do Treinamento|Aprimoria do Treinamento]]
 
 ## Links principais
 
 - Project cockpit: [[../PROJECT|PROJECT]]
 - Brief: [[../00-Project-Brief|00 - Project Brief]]
 - Arquitetura pedagogica: [[../02-Process/Arquitetura-do-Treinamento|Arquitetura do Treinamento]]
-- Apresentacao no treinamento: [[../Aprimoria do Treinamento|Aprimoria do Treinamento]]
+- Apresentacao no treinamento: [[../01-Inputs/Aprimoria do Treinamento|Aprimoria do Treinamento]]
 
 ## Decisoes abertas
 

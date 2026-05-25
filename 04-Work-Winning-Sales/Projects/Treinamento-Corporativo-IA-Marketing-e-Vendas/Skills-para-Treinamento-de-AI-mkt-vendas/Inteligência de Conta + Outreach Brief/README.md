@@ -116,7 +116,7 @@ Conforme acordado no chat 2026-05-22:
 
 - [ ] **6. Atualizar status no hub**
   - Status para `validated` em [[../README|hub README]]
-  - Confirmar/ajustar valor por dados em [[../../Aprimoria do Treinamento|Aprimoria do Treinamento]]
+  - Confirmar/ajustar valor por dados em [[../../01-Inputs/Aprimoria do Treinamento|Aprimoria do Treinamento]]
 
 ## Decisoes tomadas
 
@@ -134,7 +134,7 @@ Conforme acordado no chat 2026-05-22:
 
 - Hub de Skills: [[../README|Hub de Skills]]
 - Project cockpit: [[../../PROJECT|PROJECT]]
-- Apresentacao no treinamento: [[../../Aprimoria do Treinamento|Aprimoria do Treinamento]] (secao "AI para Marketing → Especialista de Demanda e Growth → Skill 1")
+- Apresentacao no treinamento: [[../../01-Inputs/Aprimoria do Treinamento|Aprimoria do Treinamento]] (secao "AI para Marketing → Especialista de Demanda e Growth → Skill 1")
 - Pesquisa profunda fundadora: chat 2026-05-22 (deep research em B2B marketing skills e decomposicao em skills atomicas)
 
 ## Convencoes

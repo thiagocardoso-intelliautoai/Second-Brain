@@ -17,7 +17,7 @@ Leia, nessa ordem:
 1. `../00-Project-Brief.md` — escopo do treinamento
 2. `../PROJECT.md` — cockpit do projeto
 3. `../02-Process/Arquitetura-do-Treinamento.md` — tese pedagogica e loops por sessao
-4. `../Aprimoria do Treinamento.md` — onde cada Skill e apresentada para o aluno (nome friendly + valor por dados)
+4. `../01-Inputs/Aprimoria do Treinamento.md` — onde cada Skill e apresentada para o aluno (nome friendly + valor por dados)
 5. Este `AGENTS.md` — convencoes desta pasta
 6. Regras gerais do vault: root `AGENTS.md`, `00-Start-Here/AI-READ-ME-FIRST.md`, `02-AI-Operating-System/*`
 
@@ -60,13 +60,13 @@ Mesmo loop para toda Skill registrada aqui:
 | 5 | Validacao do plano e das stories | `@sm` / `@po` | gate GO/NO-GO |
 | 6 | Implementacao | `@dev` | SKILL.md adaptadas |
 | 7 | Quality gate | `@qa` | PASS / CONCERNS / FAIL |
-| 8 | Documentar no treinamento | manual | atualizar `../README.md` e `../../Aprimoria do Treinamento.md` |
+| 8 | Documentar no treinamento | manual | atualizar `../README.md` e `../01-Inputs/Aprimoria do Treinamento.md` |
 
 Cada subpasta de Skill registra esse loop no proprio `README.md`.
 
 ## Naming convention
 
-- Nome de pasta = nome friendly em PT-BR, identico ao que aparece em `Aprimoria do Treinamento.md`
+- Nome de pasta = nome friendly em PT-BR, identico ao que aparece em `../01-Inputs/Aprimoria do Treinamento.md`
 - Caracteres permitidos: letras com acento, espacos, `+`, `-`
 - Evitar nomes de repo (`gtm-starter-kit`, etc.) — esses ficam dentro de `source/` da subpasta
 - Quando referenciar a Skill em outros artefatos, usar o nome friendly entre aspas ou em links wiki
